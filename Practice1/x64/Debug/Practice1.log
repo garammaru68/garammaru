@@ -1,0 +1,6 @@
+﻿  GradeCard.cpp
+e:\practice\practice1\gradecard.h(71): warning C4778: 'printf' : 서식 문자열 '%4.3'이(가) 종결되지 않았습니다.
+e:\practice\practice1\gradecard.h(79): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  e:\practice\practice1\gradecard.h(79): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 7개 필요하지만 8개가 제공되었습니다.
+e:\practice\practice1\gradecard.cpp(9): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Practice1.vcxproj -> E:\Practice\x64\Debug\Practice1.exe
